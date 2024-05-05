@@ -71,7 +71,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314114
 
 
 
-<h3>2. Download Lung dataset </h3>
+<h3>2. Download Kvasir-Sessile dataset </h3>
 If you would like to create your own dataset by yourself,
 please download the original <b>sessile-main-Kvasir-SEG</b> dataset from the
 google drive 
