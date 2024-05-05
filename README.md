@@ -6,6 +6,13 @@ The original dataset used here has been taken from the web-site.<br>
 Kvasir-Sessile dataset (Sessile polyps from Kvasir-SEG)
 </a>
 <br>
+<b>Download Sessile-Polyp-ImageMask-Dataset-</b><br>
+<br>
+You can download our augmented dataset generated here from the google drive 
+<a href="https://drive.google.com/file/d/1ASU3q3tp4Benvu4_4O7Fx5eZaRdD1Dr_/view?usp=sharing">Sessile-Polyp-ImageMask-Dataset-V1</a>.
+<br>
+
+
 <br>
 <b>Image and mask sample</b><br>
 <hr>
@@ -39,12 +46,6 @@ Mask
 </tr>
 </table>
 <hr>
-
-<b>Download Sessile-Polyp-ImageMask-Dataset-</b><br>
-<br>
-You can download our augmented dataset generated here from the google drive 
-<a href="https://drive.google.com/file/d/1ASU3q3tp4Benvu4_4O7Fx5eZaRdD1Dr_/view?usp=sharing">Sessile-Polyp-ImageMask-Dataset-V1</a>.
-<br>
 
 <h3>1. Dataset Citation</h3>
 <b>
