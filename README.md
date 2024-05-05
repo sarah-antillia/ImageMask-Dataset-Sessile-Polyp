@@ -85,7 +85,7 @@ Please expand the downloaded tar file under <b>ImageMask-Dataset-Sessile-Polyp</
 
 
 <h3>3. Generate master dataset </h3>
-Please run the following commnad for Python script <a href="./ImageMaskDatasetGenetator.py">ImageMaskDatasetGenetator.py</a> to generate
+Please run the following commnad for Python script <a href="./ImageMaskDatasetGenerator.py">ImageMaskDatasetGenerator.py</a> to generate
 images and masks jgp files.<br>
 <pre>
 >python ImageMaskDatasetGenerator.py 
