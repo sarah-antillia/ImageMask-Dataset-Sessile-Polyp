@@ -76,13 +76,12 @@ If you would like to create your own dataset by yourself,
 please download the original <b>sessile-main-Kvasir-SEG</b> dataset from the
 google drive 
 <a href="https://drive.google.com/drive/folders/1OjsStQh6yuKz0bG6OA3BzmIiXDZILg7V?usp=sharing">sessile-main-Kvasir-SEG
-</a>
-Please expand the downloaded tar file under <b>ImageMask-Dataset-Sessile-Polyp</b> directory, 
+</a>, and place the downloaded image and mask files under <b>ImageMask-Dataset-Sessile-Polyp</b> directory, 
 <pre>
 ./ImageMask-Dataset-Sessile-Polyp
  └─sessile-main-Kvasir-SEG
     ├─images
-    └─mask
+    └─masks
 </pre>
 
 
