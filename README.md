@@ -1,6 +1,6 @@
 <h2>ImageMask-Dataset-Sessile-Polyp (2024/05/06) </h2>
 This is a simple Kvasir-Sessile dataset (Sessile polyps from Kvasir-SEG) for Image-Segmentation.<br>
-The original dataset used here has been take from the web-site.<br>
+The original dataset used here has been taken from the web-site.<br>
 
 <a href="https://paperswithcode.com/dataset/kvasir-sessile-dataset">
 Kvasir-Sessile dataset (Sessile polyps from Kvasir-SEG)
@@ -40,6 +40,7 @@ Mask
 </table>
 <hr>
 
+<b>Download Sessile-Polyp-ImageMask-Dataset-</b><br>
 <br>
 You can download our augmented dataset generated here from the google drive 
 <a href="https://drive.google.com/file/d/1ASU3q3tp4Benvu4_4O7Fx5eZaRdD1Dr_/view?usp=sharing">Sessile-Polyp-ImageMask-Dataset-V1</a>.
